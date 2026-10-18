@@ -1,0 +1,6 @@
+{
+  "name": "Coco Crumble",
+  "description": "Life is short. Add extra frosting! A whimsical storybook bakery featuring interactive cake games, emotional discovery, and Coco the anime baker mascot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
